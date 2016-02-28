@@ -14,14 +14,18 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
-After adding files to the staging area, you can double check that the files you've added 
-only include the changes you intend by using git diff --staged.  If all looks good, you can then commit the changes.
+	After adding files to the staging area, you can double check that the files you've added 
+	only include the changes you intend by using git diff --staged.  If all looks good, you can then commit the changes.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
-Branches could be used to track changes for major updates or to experiment with new features.  Different branches could be created and changed while still being able to update and release the master version.
+	Branches could be used to track changes for major updates or to experiment with new features.  Different branches could be created and changed while still being able to update and release the master version.
 
 How do the diagrams help you visualize the branch structure?
+	The diagrams are really helpful in visualizing the branch structure.  
+	This would be even more important when multiple people are working on the project 
+	and adding various features and fixing bugs along the way.  
+	Seeing the structure helps me understand what is going on.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?

@@ -29,6 +29,11 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	Merging branches includes changes that have occurred in both branches into the currently checked out branch.  
+	I am a bit confused about the warning I got trying to delete the coins branch after the merge:
+	 ("not deleting branch 'coins' that is not yet merged to 'refs/remotes/origin/coins', even though it is merged to HEAD")
+
+	 Also, I'm confused how to actually have various versions/branches in progress.  If you have made changes in a branch, but haven't committed them yet, you can't do a checkout without losing your intermediate changes.  Do you need to maintain different working directories to handle this?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?

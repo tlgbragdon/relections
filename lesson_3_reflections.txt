@@ -28,7 +28,7 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    A copy of the last known state of the remote on your local machine allows you to merge your local changes into the origin and resolve any conflicts locally before pushing to the remote repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?

@@ -33,7 +33,8 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I can't imagine trying to collaborate without some kind of code management system.  Without Git/GitHub or something like it, I would think you would have to allow only one person to edit a file at a time to avoid conflicts.  
+    The comment features on pull requests are great for code reviews.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?

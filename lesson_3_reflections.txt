@@ -39,4 +39,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Most times you would want to use a branch.  This helps keeps each each collaborators code separate and should be easier to merge if several people have made changes. It also gives you a chance to test out and make sure the intermediate merged changes are working as intended before they are merged with the master.
